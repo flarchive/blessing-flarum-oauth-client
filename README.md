@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of blessing/flarum-oauth-client.** Not for installation: use [Packagist](https://packagist.org/packages/blessing/flarum-oauth-client) or the [upstream repository](https://github.com/bs-community/flarum-oauth-client).
 
-**0** versions archived · Latest: [`v2.0.2`](https://github.com/flarchive/blessing-flarum-oauth-client/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^1.2`
+**5** versions archived · Latest: [`v2.0.2`](https://github.com/flarchive/blessing-flarum-oauth-client/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2020-06-17 | `>=0.1.0-beta.12 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/blessing-flarum-oauth-client/tree/archive/v1.0.0) |
+| `v1.1.0` | 2021-01-09 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/blessing-flarum-oauth-client/tree/archive/v1.1.0) |
+| `v2.0.0` | 2021-08-15 | `^1.0` | [Browse](https://github.com/flarchive/blessing-flarum-oauth-client/tree/archive/v2.0.0) |
+| `v2.0.1` | 2021-08-15 | `^1.0` | [Browse](https://github.com/flarchive/blessing-flarum-oauth-client/tree/archive/v2.0.1) |
+| `v2.0.2` | 2022-02-09 | `^1.2` | [Browse](https://github.com/flarchive/blessing-flarum-oauth-client/tree/archive/v2.0.2) |
 
 Catalog entry: [packages/blessing-flarum-oauth-client.json](https://github.com/flarchive/archive-index/blob/main/packages/blessing-flarum-oauth-client.json)
 
